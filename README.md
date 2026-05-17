@@ -55,13 +55,6 @@ Building intelligent systems, AI agents, modern full stack applications, and rea
 * Authentication systems
 * Dashboard interfaces
 
-### 🧠 Machine Learning & AI Projects
-
-* Image Classification
-* Deep Learning Models
-* Computer Vision Applications
-* NLP-based systems
-* Intelligent tutoring systems
 
 ---
 
@@ -179,15 +172,6 @@ Projects involving:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-hawk&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-hawk&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
