@@ -192,16 +192,16 @@ Projects involving:
 ---
 
 # 🌍 Connect With Me
-
-💼 LinkedIn: Add Your LinkedIn Link
-🌐 Portfolio: Add Your Portfolio Link
-📧 Email: Add Your Email Address
+<br>
+💼 LinkedIn: https://www.linkedin.com/in/gokula-udhayan/<br>
+🌐 Portfolio: https://res-sand-xi.vercel.app/<br>
+📧 Email: gokulaudhayannv@gmail.com
 
 ---
 
 # ⚡ Fun Fact
 
-> “I don’t just learn technology — I build with it.”
+> “I will mostly forget everything I have mentioned as I know, Dont worry I am very in recovery”
 
 ---
 
