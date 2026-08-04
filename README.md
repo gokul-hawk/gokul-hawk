@@ -1,7 +1,7 @@
-<body bgcolor="blue">
+
 # Hi 👋 I'm Gokula Udhayan
 
-<div align="center">
+<div align="center" style="background-color:blue">
 
 # 🚀 AI/ML Enthusiast | Full Stack Developer | Future AI Engineer
 
@@ -195,4 +195,4 @@ Projects involving:
 ⭐ Thanks for visiting my profile ⭐
 </div>
 
-</body>
+
