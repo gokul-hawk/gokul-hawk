@@ -1,4 +1,4 @@
-<div bgcolor="blue">
+<div style="background-color:blue">
 # Hi 👋 I'm Gokula Udhayan
 
 <div align="center">
