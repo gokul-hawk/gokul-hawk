@@ -1,4 +1,4 @@
-<div style="background-color:blue">
+<body bgcolor="blue">
 # Hi 👋 I'm Gokula Udhayan
 
 <div align="center">
@@ -195,4 +195,4 @@ Projects involving:
 ⭐ Thanks for visiting my profile ⭐
 </div>
 
-</div>
+</body>
